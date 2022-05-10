@@ -1,0 +1,59 @@
+//**Estilizando Textos**//
+
+//*Font-family*//
+#tittle{
+   font-family: Verdana;
+}
+
+.post_title{
+   font-family: Verdana, Arial;
+}
+------------------------------------------------
+//*Font-Size*//
+#title{
+   font-size: 30px;
+}
+
+.post_title{
+  font-size: 18px;
+}
+------------------------------------------------
+//*Font-style*//
+#title{
+   font-style: normal;
+}
+.subtitle{
+   font-style: italic;
+}
+------------------------------------------------
+//*Font-Weight*//
+#title{
+   font-weight: normal;
+}
+
+.subtitle {
+   font-weight: bold; (negrito)
+}
+------------------------------------------------
+//*Text-transform*//
+#title{
+   text-transform: uppercase OU lowercase
+}
+
+.subtitle{
+   text-transform: capitalize; (Todas primeiras letras em Maiuscula)
+}
+------------------------------------------------
+//*Text-Decoration*//
+#title{
+   text-decoration: underline OU overline OU line-through;
+}
+
+underline:linha abaixo da palavra
+overline:linha acima da palavra
+line-through: linha ao centro, cortando a palava
+
+
+
+
+

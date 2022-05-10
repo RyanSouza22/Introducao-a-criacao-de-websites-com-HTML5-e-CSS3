@@ -1,0 +1,21 @@
+//**Estilizando Listas**//
+------------------------------------------------
+//*list-style-type*//
+(alterar marcador)
+
+ul {
+   list-style-type: square; (quadrado)
+}
+
+ol {
+   list-style-type: upper-roman; (algarismo romano maiusculo)
+}
+
+ul {
+   list-style-type: "\1f44d"; (simbolo (emote de joinha)
+}
+------------------------------------------------
+//*list-style-image*//
+
+list-style-image: url("rocket.png");
+------------------------------------------------

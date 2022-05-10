@@ -1,0 +1,60 @@
+body {
+    /* colocando cor no body */
+    background: rgb(143, 143, 143);
+    font-family: verdana;
+}
+
+.photo {
+    border: 3px solid #717171;
+    border-radius: 50%;
+}
+
+#title, .subtitle, .post_title {
+    color: rgb(71, 71, 71);
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through;
+    color: #717171;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    /* colocando cor na area de post */
+    background: #fff;
+    padding: 10px;
+    border: 3px solid #717171;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+.post_img {
+    position: relative;
+    left: 300px;
+    margin-bottom: 15px;
+}
+
+.contacts_list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contacts_list li a {
+    color: rgb(57, 57, 255);
+    text-decoration: none;
+}
