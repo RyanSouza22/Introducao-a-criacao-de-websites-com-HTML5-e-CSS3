@@ -51,7 +51,7 @@
 
 underline:linha abaixo da palavra
 overline:linha acima da palavra
-line-through: linha ao centro, cortando a palava
+line-through: linha ao centro, cortando a palavra
 
 
 
