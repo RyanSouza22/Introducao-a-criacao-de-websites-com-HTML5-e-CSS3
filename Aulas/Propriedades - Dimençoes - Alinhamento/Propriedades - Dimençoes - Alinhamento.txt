@@ -1,0 +1,11 @@
+Dimensao e Alinhamento
+
+Width (ajustar largura)
+Height (ajustar altura)
+
+Max-width (vao se ajustar dependendo da situação)
+Max-height
+
+Margin
+
+Text align (alinhar textos)
